@@ -1,0 +1,23 @@
+{
+  "folders": [
+	{
+		"path": "../HTML-CSS"
+	},
+	{
+		"path": "../HTML-CSS(evondev)"
+	},
+	{
+		"path": "../ReactJsVTI"
+	},
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "editor.codeActionsOnSave": {},
+    "workbench.colorCustomizations": {
+      "tab.activeBackground": "#024b68"
+    },
+    "liveServer.settings.multiRootWorkspaceName": "HTML-CSS(evondev)"
+  }
+}
